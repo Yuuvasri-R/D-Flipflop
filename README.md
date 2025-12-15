@@ -62,7 +62,7 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1589" height="911" alt="image" src="https://github.com/user-attachments/assets/c58b2bb8-be92-4dd3-8d91-d4ede8c874b4" />
+<img width="1879" height="853" alt="Screenshot 2025-12-15 113028" src="https://github.com/user-attachments/assets/1ced90d9-45cd-480b-8737-86f2e9677d31" />
 
 
 **RESULTS**
